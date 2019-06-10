@@ -1,0 +1,38 @@
+From https://www.dataversity.net/fundamentals-of-data-virtualization/
+
+An innovative Data Strategy called “data virtualization” (DV) is employed to tackle high volumes data from varied sources. Data virtualization is widely used in enterprise resource planning (ERP), customer relationship management (CRM), and sales force automation (SFA) systems to collect and aggregate multi-source data.
+
+From multi-sourced data acquisition to advanced analytics, this technology seems to offer a one-stop solution. The biggest benefit of DV, as perceived by businesses today, is the presence of this additional layer on top of traditional data warehouses for fast and reliable access to data.
+
+The Brief Introduction to Data Virtualization
+
+In What Is Data Virtualization, “data virtualization” is described as a TV guide, which includes the content of many different channels in one place. 
+
+In simple terms, DV enables the placement of an additional layer of data access between the source of data and the user for faster access. A couple of examples of DV are “virtual data warehouse” and the “virtual data lake.”
+
+Initially viewed as a workaround for ETL, this technology now offers fast data access, data integration, data cleaning, and analytics tools for BI users. DV enables established technologies like cloud, Big Data, and advanced analytics platforms to work in tandem to produce superior data management solutions that traditional data warehouses failed to achieve.
+
+Data Management in the Age of Data Virtualization
+
+Through data virtualization platforms, vendors are offering a one-stop solution for data collection, management, and data services delivery. A significant strength of DV, as stated in a Wipro blog post, is the complete reliability and security of real-time data. This single benefit is helping to earn huge rewards in the form of a quickly expanding DV market.
+
+While ETL still delivers high-volume data movements, DV promises superfast access to data. Currently, the usage trends show that businesses are using both DV and ETL concurrently.
+
+So, what are the most visible benefits of managing enterprise data with DV?
+
+Fast access to secure data
+Reduction of data replication
+Reusability of unified data service
+Data Virtualization for Big Data
+
+Gartner predicted that in 2017, 60 percent of all the Big Data projects would fail. Data virtualization, while not able to solve all Big Data related issues, can substantially simplify processes and make Big Data projects easier to handle. For starters, this technology can make Big Data available and ready for use on BI platforms.
+
+One of the primary challenges of Big Data is the “volume, variety, and velocity” of data residing in traditional data warehouses. A logical data warehouse is a data acquisition and data organization solution across the enterprise, where data resides in structured, unstructured, batch, or real-time forms. Data virtualization can substantially reduce the data integration while preserving performance. 
+
+The whole point behind using such a data virtualization architecture is enabling “live data” stores in the warehouse and dead data in Cloudera-type repositories, and then combining multi-source data through a logical data warehouse. Data Virtualization vs. Copy Data Virtualization explains that though users often confuse these two distinct concepts, there is marked difference between them.
+
+Data needs to be accessed much faster than is currently possible in advanced analytics or BI platforms. Thus, it is hoped that DV will be increasingly used for multi-source data integration across enterprises, and “unified data views” will enable users to get the accurate information when necessary.
+
+Data Virtualization is Reshaping Analytics discusses advantages that the technology offers to business analytics. This innovative technology can combat the usual limitations of data preparation and analytics to achieve the best outcomes
+
+www.google.com
