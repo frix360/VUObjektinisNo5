@@ -33,7 +33,7 @@ int main() {
     WCCollection wordsMap;
     std::vector<std::string> links;
 
-    countWords("article.txt", wordsMap, links);
+    countWords("../article.txt", wordsMap, links);
 
     std::ofstream output("output.txt");
 
